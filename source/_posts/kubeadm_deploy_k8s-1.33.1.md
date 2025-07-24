@@ -1,3 +1,10 @@
+---
+title: kubeadm_deploy_k8s-1.33.1
+password: qqqqqq
+abstract: 此处内容已被加密，请输入密码查看
+message: 请输入密码
+---
+
 在 Ubuntu 系统上搭建一个高可用 Kubernetes 集群，包含：
 
 -   1 个主 master 节点
